@@ -24,7 +24,7 @@
 
 
 
-<a href="https://www.youtube.com/@mentemaker/featured">
+<a href="https://www.youtube.com/@Gabrielbsxs/featured">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
 </a>
 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/instagram-FF0000r?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://replit.com/@MenteMaker">
+<a href="https://replit.com/@Gabrielbsxs">
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
 </a>
 
