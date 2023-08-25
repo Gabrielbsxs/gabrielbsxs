@@ -9,10 +9,11 @@
 <div>
     <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
     <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-    <br>
+<br> <br>
 </div>
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Gabrielbsxs&show_icons=true&theme=chartreuse-dark" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielbsxs&layout=compact&theme=chartreuse-dark" />
+<br>
 <div> 
     <a href="https://www.instagram.com/KALLYS_21/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
